@@ -28,6 +28,8 @@ Jeu d'arcade 2D en temps réel développé en **Programmation Orientée Objet**.
 * Bibliothèque **Kivy** :
 ```bash
 pip install kivy
+ ```
+
 
 ### Exécution
 ```bash
