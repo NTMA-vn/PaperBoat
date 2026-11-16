@@ -23,6 +23,12 @@ Jeu d'arcade 2D en temps réel développé en **Programmation Orientée Objet**.
 
 ## 🚀 Lancer le projet en local
 
+### Prérequis
+* Python 3.x
+* Bibliothèque **Kivy** :
+```bash
+pip install kivy
+
 ### Exécution
 ```bash
 git clone [https://github.com/NTMA-vn/PaperBoat.git](https://github.com/NTMA-vn/PaperBoat.git)
