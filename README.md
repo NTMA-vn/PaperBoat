@@ -6,9 +6,9 @@ Jeu d'arcade 2D en temps réel développé en **Programmation Orientée Objet**.
 
 ## 🎮 Aperçu du jeu
 
-| Écran d'accueil | Lancement | Partie en cours |
-| :---: | :---: | :---: |
-| ![Menu](screenshots/menu.png) | ![Start](screenshots/start.png) | ![Gameplay](screenshots/gameplay.png) |
+| Écran d'accueil | Lancement | Partie en cours | Fin de partie |
+| :---: | :---: | :---: | :---: |
+| ![Menu](screenshots/menu.png) | ![Start](screenshots/start.png) | ![Gameplay](screenshots/gameplay.png) | ![Game Over](screenshots/gameover.png) |
 
 ---
 
